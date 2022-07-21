@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | CHAI Workshop</title>
+    <link>https://chai-workshop.github.io/authors/</link>
+      <atom:link href="https://chai-workshop.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://chai-workshop.github.io/media/logo_hu45378e8d095d50a38aa167deeab1e83c_26487_300x300_fit_lanczos_3.png</url>
+      <title>Authors</title>
+      <link>https://chai-workshop.github.io/authors/</link>
+    </image>
+    
+  </channel>
+</rss>
