@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrew Howes | CHAI Workshop</title>
+    <link>https://chai-workshop.github.io/author/andrew-howes/</link>
+      <atom:link href="https://chai-workshop.github.io/author/andrew-howes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andrew Howes</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://chai-workshop.github.io/author/andrew-howes/avatar_hu83219a7d0042002eeb74ca4a23df3f2d_104573_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Andrew Howes</title>
+      <link>https://chai-workshop.github.io/author/andrew-howes/</link>
+    </image>
+    
+  </channel>
+</rss>

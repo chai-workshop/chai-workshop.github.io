@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ilaria Torre | CHAI Workshop</title>
+    <link>https://chai-workshop.github.io/author/ilaria-torre/</link>
+      <atom:link href="https://chai-workshop.github.io/author/ilaria-torre/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ilaria Torre</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://chai-workshop.github.io/author/ilaria-torre/avatar_hu5feec4c507cb9046c03d0987f9b346d9_2786952_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Ilaria Torre</title>
+      <link>https://chai-workshop.github.io/author/ilaria-torre/</link>
+    </image>
+    
+  </channel>
+</rss>
