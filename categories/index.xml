@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | CHAI Workshop</title>
+    <link>https://chai-workshop.github.io/categories/</link>
+      <atom:link href="https://chai-workshop.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://chai-workshop.github.io/media/logo_hu45378e8d095d50a38aa167deeab1e83c_26487_300x300_fit_lanczos_3.png</url>
+      <title>Categories</title>
+      <link>https://chai-workshop.github.io/categories/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CHAI Workshop</title>
+    <link>https://chai-workshop.github.io/</link>
+      <atom:link href="https://chai-workshop.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>CHAI Workshop</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 16 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chai-workshop.github.io/media/logo_hu45378e8d095d50a38aa167deeab1e83c_26487_300x300_fit_lanczos_3.png</url>
+      <title>CHAI Workshop</title>
+      <link>https://chai-workshop.github.io/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://chai-workshop.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://chai-workshop.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://chai-workshop.github.io/sponsors/ai4europe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://chai-workshop.github.io/sponsors/ai4europe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://chai-workshop.github.io/sponsors/humane-ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://chai-workshop.github.io/sponsors/humane-ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://chai-workshop.github.io/sponsors/ukri-tas-trust/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://chai-workshop.github.io/sponsors/ukri-tas-trust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://chai-workshop.github.io/sponsors/vr-communication-planning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://chai-workshop.github.io/sponsors/vr-communication-planning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CHAI@IJCAI-ECAI2022</title>
+      <link>https://chai-workshop.github.io/previous-editions/2022/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://chai-workshop.github.io/previous-editions/2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

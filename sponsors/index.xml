@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sponsors | CHAI Workshop</title>
+    <link>https://chai-workshop.github.io/sponsors/</link>
+      <atom:link href="https://chai-workshop.github.io/sponsors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sponsors</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://chai-workshop.github.io/media/logo_hu45378e8d095d50a38aa167deeab1e83c_26487_300x300_fit_lanczos_3.png</url>
+      <title>Sponsors</title>
+      <link>https://chai-workshop.github.io/sponsors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://chai-workshop.github.io/sponsors/ai4europe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://chai-workshop.github.io/sponsors/ai4europe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://chai-workshop.github.io/sponsors/humane-ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://chai-workshop.github.io/sponsors/humane-ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://chai-workshop.github.io/sponsors/ukri-tas-trust/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://chai-workshop.github.io/sponsors/ukri-tas-trust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://chai-workshop.github.io/sponsors/vr-communication-planning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://chai-workshop.github.io/sponsors/vr-communication-planning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
